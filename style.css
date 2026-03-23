@@ -80,23 +80,19 @@ body {
 }
 
 .cards .red {
-  background-color: #f43f5e;
+  background: url('images/html.png') center/cover no-repeat;
 }
 
 .cards .blue {
-  background-color: #3b82f6;
+  background: url('./images/css.jpg') center/cover no-repeat;
 }
 
 .cards .green {
-  background-color: #22c55e;
-}
-
-.cards .yellow {
-  background-color: #eab308;
+  background: url('./images/mysql.jpg') center/cover no-repeat;
 }
 
 .cards .purple {
-  background-color: #a855f7;
+  background: url('./images/csharp.jpg') center/cover no-repeat;
 }
 
 .cards .card {
