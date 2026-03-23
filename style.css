@@ -11,6 +11,10 @@ body {
   flex-direction: column;
 }
 
+body {
+  background-color: #323232;
+}
+
 .cards {
   display: flex;
   gap: 15px;
@@ -24,11 +28,15 @@ footer {
   margin-top: auto;
   padding: 6px 0;
   text-align: center;
-  border-top: 1px solid rgba(0,0,0,0.2);
+  border-top: 1px solid gray;
 }
 
 footer p {
   margin: 5px 0;
+}
+
+footer {
+  color: white; 
 }
 
 /* NAVBAR */
