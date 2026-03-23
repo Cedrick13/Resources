@@ -79,20 +79,24 @@ body {
   margin-top: 40px;
 }
 
-.cards .red {
-  background: url('images/html.png') center/cover no-repeat;
+.cards .no1 {
+  background: url('images/Screensdesign.png') center/cover no-repeat;
 }
 
-.cards .blue {
-  background: url('./images/css.jpg') center/cover no-repeat;
+.cards .no2 {
+  background: url('images/SimilarPNG.png') center/cover no-repeat;
 }
 
-.cards .green {
-  background: url('./images/mysql.jpg') center/cover no-repeat;
+.cards .no3 {
+  background: url('images/pngwing.ico') center/cover no-repeat;
 }
 
-.cards .purple {
-  background: url('./images/csharp.jpg') center/cover no-repeat;
+.cards .no4 {
+  background: url('images/looka.png') center/cover no-repeat;
+}
+
+.cards .no5 {
+  background: url('images/removebg.ico') center/cover no-repeat;
 }
 
 .cards .card {
@@ -104,7 +108,7 @@ body {
   height: 100px;
   width: 250px;
   border-radius: 10px;
-  color: white;
+  color: seagreen;
   cursor: pointer;
   transition: 400ms;
 }
