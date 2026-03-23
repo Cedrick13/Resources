@@ -112,7 +112,12 @@ body {
   transform: scale(1.1, 1.1);
 }
 
-.cards:hover > .card:not(:hover) {
-  filter: blur(10px);
-  transform: scale(0.9, 0.9);
+.cards .card:hover ~ .card,
+.cards .card:hover {
+  z-index: 1;
+}
+
+.cards:has(.card:hover) .card:not(:hover) {
+  filter: blur(5px);
+  transform: scale(0.9);
 }
