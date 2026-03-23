@@ -1,7 +1,7 @@
 .cards {
   display: flex;
-  flex-direction: column;
   gap: 15px;
+  flex-wrap: wrap; /* allows multiple rows */
 }
 
 .cards .red {
@@ -14,6 +14,14 @@
 
 .cards .green {
   background-color: #22c55e;
+}
+
+.cards .yellow {
+  background-color: #eab308;
+}
+
+.cards .purple {
+  background-color: #a855f7;
 }
 
 .cards .card {
