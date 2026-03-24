@@ -122,6 +122,7 @@ body {
   transform: scale(1.05);
 }
 
+/* UI Cards */
 .cards .UIno1 {
   background: url('images/Screensdesign.png') center/cover no-repeat;
 }
@@ -140,6 +141,23 @@ body {
 
 .cards .UIno5 {
   background: url('images/removebg.ico') center/cover no-repeat;
+}
+
+/* Dev Cards */
+.cards .Devno1 {
+  background: url('images/uiverse.png') center/cover no-repeat;
+}
+
+.cards .Devno2 {
+  background: url('images/shapedivider.png') center/cover no-repeat;
+}
+
+.cards .Devno3 {
+  background: url('images/animate.ico') center/cover no-repeat;
+}
+
+.cards .Devno4 {
+  background: url('images/aos.png') center/cover no-repeat;
 }
 
 .cards .card {
