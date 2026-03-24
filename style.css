@@ -143,6 +143,26 @@ body {
   background: url('images/removebg.ico') center/cover no-repeat;
 }
 
+.cards .UIno6 {
+  background: url('images/Unscreen.png') center/cover no-repeat;
+}
+
+.cards .UIno7 {
+  background: url('images/pixabay.png') center/cover no-repeat;
+}
+
+.cards .UIno8 {
+  background: url('images/colorsinspo.png') center/cover no-repeat;
+}
+
+.cards .UIno9 {
+  background: url('images/mobbin.png') center/cover no-repeat;
+}
+
+.cards .UIno10 {
+  background: url('images/colors.muz.li.png') center/cover no-repeat;
+}
+
 /* Dev Cards */
 .cards .Devno1 {
   background: url('images/uiverse.png') center/cover no-repeat;
