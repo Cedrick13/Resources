@@ -1,321 +1,321 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 /* COLORS */
 :root {
-  --bg: #ffffff;
-  --text: #111111;
+    --bg: #ffffff;
+    --text: #111111;
 }
 
 body {
-  font-family: Arial, sans-serif;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 body {
-  background-color: #323232;
+    background-color: #323232;
 }
 
 .cards {
-  display: flex;
-  gap: 15px;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin-top: 40px;
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 40px;
 }
 
 /* FOOTER */
 footer {
-  margin-top: auto;
-  padding: 6px 0;
-  text-align: center;
-  border-top: 1px solid gray;
+    margin-top: auto;
+    padding: 6px 0;
+    text-align: center;
+    border-top: 1px solid gray;
 }
 
 footer p {
-  margin: 5px 0;
+    margin: 5px 0;
 }
 
 footer {
-  color: white; 
+    color: white;
 }
 
 /* NAVBAR */
 .navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 15px 30px;
-  background: #111;
-  color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background: #111;
+    color: white;
 }
 
 body {
-  font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 .cards {
-  margin-top: 40px;
-  align-items: center;
+    margin-top: 40px;
+    align-items: center;
 }
 
 /* LOGO */
 .logo {
-  font-size: 1.5em;
-  font-weight: bold;
+    font-size: 1.5em;
+    font-weight: bold;
 }
 
 /* CARDS */
 .cards {
-  display: flex;
-  gap: 15px;
-  flex-wrap: wrap;
-  justify-content: center; /* center cards */
-  margin-top: 40px;
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center; /* center cards */
+    margin-top: 40px;
 }
 
 .card {
-  position: relative;
-  overflow: hidden;
+    position: relative;
+    overflow: hidden;
 }
 
 .overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  
-  background: rgba(0, 0, 0, 0.6); /* dark overlay */
-  color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+    background: rgba(0, 0, 0, 0.6); /* dark overlay */
+    color: white;
 
-  opacity: 0;
-  transition: 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    opacity: 0;
+    transition: 0.3s ease;
 }
 
 .card:hover .overlay {
-  opacity: 1;
+    opacity: 1;
 }
 
 .overlay .btn {
-  margin-top: 10px;
-  padding: 6px 14px;
-  border-radius: 20px;
-  background: #00bcd4;
-  color: black;
-  font-weight: bold;
-  text-decoration: none;
-  display: inline-block;
+    margin-top: 10px;
+    padding: 6px 14px;
+    border-radius: 20px;
+    background: #00bcd4;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
 }
 
 .overlay .btn:hover {
-  background: #0097a7;
+    background: #0097a7;
 }
 
 .card:hover {
-  transform: scale(1.05);
+    transform: scale(1.05);
 }
 
 /* UI Cards */
 .cards .UIno1 {
-  background: url('images/Screensdesign.png') center/cover no-repeat;
+    background: url("images/Screensdesign.png") center/cover no-repeat;
 }
 
 .cards .UIno2 {
-  background: url('images/SimilarPNG.png') center/cover no-repeat;
+    background: url("images/SimilarPNG.png") center/cover no-repeat;
 }
 
 .cards .UIno3 {
-  background: url('images/pngwing.ico') center/cover no-repeat;
+    background: url("images/pngwing.ico") center/cover no-repeat;
 }
 
 .cards .UIno4 {
-  background: url('images/looka.png') center/cover no-repeat;
+    background: url("images/looka.png") center/cover no-repeat;
 }
 
 .cards .UIno5 {
-  background: url('images/removebg.ico') center/cover no-repeat;
+    background: url("images/removebg.ico") center/cover no-repeat;
 }
 
 .cards .UIno6 {
-  background: url('images/Unscreen.png') center/cover no-repeat;
+    background: url("images/Unscreen.png") center/cover no-repeat;
 }
 
 .cards .UIno7 {
-  background: url('images/pixabay.png') center/cover no-repeat;
+    background: url("images/pixabay.png") center/cover no-repeat;
 }
 
 .cards .UIno8 {
-  background: url('images/colorsinspo.png') center/cover no-repeat;
+    background: url("images/colorsinspo.png") center/cover no-repeat;
 }
 
 .cards .UIno9 {
-  background: url('images/mobbin.png') center/cover no-repeat;
+    background: url("images/mobbin.png") center/cover no-repeat;
 }
 
 .cards .UIno10 {
-  background: url('images/colors.muz.li.png') center/cover no-repeat;
+    background: url("images/colors.muz.li.png") center/cover no-repeat;
 }
 
 .cards .UIno11 {
-  background: url('images/cleanup.png') center/cover no-repeat;
+    background: url("images/cleanup.png") center/cover no-repeat;
 }
 
 .cards .UIno12 {
-  background: url('images/unsplash.png') center/cover no-repeat;
+    background: url("images/unsplash.png") center/cover no-repeat;
 }
 
 .cards .UIno13 {
-  background: url('images/preloaders.png') center/cover no-repeat;
+    background: url("images/preloaders.png") center/cover no-repeat;
 }
 
 .cards .UIno14 {
-  background: url('images/loading.io.png') center/cover no-repeat;
+    background: url("images/loading.io.png") center/cover no-repeat;
 }
 
 .cards .UIno15 {
-  background: url('images/flaticon.png') center/cover no-repeat;
+    background: url("images/flaticon.png") center/cover no-repeat;
 }
 
 .cards .UIno16 {
-  background: url('images/footer.png') center/cover no-repeat;
+    background: url("images/footer.png") center/cover no-repeat;
 }
 
 .cards .UIno17 {
-  background: url('images/brandcolors.png') center/cover no-repeat;
+    background: url("images/brandcolors.png") center/cover no-repeat;
 }
 
 .cards .UIno18 {
-  background: url('images/uiball.png') center/cover no-repeat;
+    background: url("images/uiball.png") center/cover no-repeat;
 }
 
 .cards .UIno19 {
-  background: url('images/freepik.ico') center/cover no-repeat;
+    background: url("images/freepik.ico") center/cover no-repeat;
 }
 
 .cards .UIno20 {
-  background: url('images/color-name.png') center/cover no-repeat;
+    background: url("images/color-name.png") center/cover no-repeat;
 }
 
 /* Dev Cards */
 .cards .Devno1 {
-  background: url('images/uiverse.png') center/cover no-repeat;
+    background: url("images/uiverse.png") center/cover no-repeat;
 }
 
 .cards .Devno2 {
-  background: url('images/shapedivider.png') center/cover no-repeat;
+    background: url("images/shapedivider.png") center/cover no-repeat;
 }
 
 .cards .Devno3 {
-  background: url('images/animate.ico') center/cover no-repeat;
+    background: url("images/animate.ico") center/cover no-repeat;
 }
 
 .cards .Devno4 {
-  background: url('images/aos.png') center/cover no-repeat;
+    background: url("images/aos.png") center/cover no-repeat;
 }
 
 .cards .Devno5 {
-  background: url('images/CSS\ Stripes\ Generator.png') center/cover no-repeat;
+    background: url("images/CSS\ Stripes\ Generator.png") center/cover no-repeat;
 }
 
 .cards .Devno6 {
-  background: url('images/fontawesome.png') center/cover no-repeat;
+    background: url("images/fontawesome.png") center/cover no-repeat;
 }
 
 .cards .Devno7 {
-  background: url('images/fontawesomeicon.png') center/cover no-repeat;
+    background: url("images/fontawesomeicon.png") center/cover no-repeat;
 }
 
 .cards .Devno8 {
-  background: url('images/css.gg.png') center/cover no-repeat;
+    background: url("images/css.gg.png") center/cover no-repeat;
 }
 
 .cards .Devno9 {
-  background: url('images/w3docs.png') center/cover no-repeat;
+    background: url("images/w3docs.png") center/cover no-repeat;
 }
 
 .cards .Devno10 {
-  background: url('images/devdocs.png') center/cover no-repeat;
+    background: url("images/devdocs.png") center/cover no-repeat;
 }
 
 .cards .Devno11 {
-  background: url('images/Knowledge\ Walls.ico') center/cover no-repeat;
+    background: url("images/Knowledge\ Walls.ico") center/cover no-repeat;
 }
 
 .cards .Devno12 {
-  background: url('images/w3school.ico') center/cover no-repeat;
+    background: url("images/w3school.ico") center/cover no-repeat;
 }
 
 .cards .Devno13 {
-  background: url('images/computerhope.ico') center/cover no-repeat;
+    background: url("images/computerhope.ico") center/cover no-repeat;
 }
 
 .cards .Devno14 {
-  background: url('images/cssgridgenerator.ico') center/cover no-repeat;
+    background: url("images/cssgridgenerator.ico") center/cover no-repeat;
 }
 
 .cards .Devno15 {
-  background: url('images/imageonline.png') center/cover no-repeat;
+    background: url("images/imageonline.png") center/cover no-repeat;
 }
 
 .cards .card {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  text-align: center;
-  height: 100px;
-  width: 250px;
-  border-radius: 10px;
-  color: seagreen;
-  cursor: pointer;
-  transition: 400ms;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    height: 100px;
+    width: 250px;
+    border-radius: 10px;
+    color: seagreen;
+    cursor: pointer;
+    transition: 400ms;
 }
 
 .cards .card p.tip {
-  font-size: 1em;
-  font-weight: 700;
+    font-size: 1em;
+    font-weight: 700;
 }
 
 .cards .card p.second-text {
-  font-size: .7em;
+    font-size: 0.7em;
 }
 
 .cards .card:hover {
-  transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1);
 }
 
 .cards .card:hover ~ .card,
 .cards .card:hover {
-  z-index: 1;
+    z-index: 1;
 }
 
 .cards:has(.card:hover) .card:not(:hover) {
-  filter: blur(5px);
-  transform: scale(0.9);
+    filter: blur(5px);
+    transform: scale(0.9);
 }
 
 .section {
-  width: 100%;
-  max-width: 1100px;
-  margin: 40px auto;
-  padding: 0 20px;
+    width: 100%;
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 0 20px;
 }
 
 .section-title {
-  color: white;
-  font-size: 1.5rem;
-  margin-bottom: 20px;
-  border-left: 4px solid #00bcd4;
-  padding-left: 10px;
+    color: white;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    border-left: 4px solid #00bcd4;
+    padding-left: 10px;
 }
