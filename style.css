@@ -167,6 +167,46 @@ body {
   background: url('images/colors.muz.li.png') center/cover no-repeat;
 }
 
+.cards .UIno11 {
+  background: url('images/cleanup.png') center/cover no-repeat;
+}
+
+.cards .UIno12 {
+  background: url('images/unsplash.png') center/cover no-repeat;
+}
+
+.cards .UIno13 {
+  background: url('images/preloaders.png') center/cover no-repeat;
+}
+
+.cards .UIno14 {
+  background: url('images/loading.io.png') center/cover no-repeat;
+}
+
+.cards .UIno15 {
+  background: url('images/flaticon.png') center/cover no-repeat;
+}
+
+.cards .UIno16 {
+  background: url('images/footer.png') center/cover no-repeat;
+}
+
+.cards .UIno17 {
+  background: url('images/brandcolors.png') center/cover no-repeat;
+}
+
+.cards .UIno18 {
+  background: url('images/uiball.png') center/cover no-repeat;
+}
+
+.cards .UIno19 {
+  background: url('images/freepik.ico') center/cover no-repeat;
+}
+
+.cards .UIno20 {
+  background: url('images/color-name.png') center/cover no-repeat;
+}
+
 /* Dev Cards */
 .cards .Devno1 {
   background: url('images/uiverse.png') center/cover no-repeat;
