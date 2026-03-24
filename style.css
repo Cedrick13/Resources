@@ -79,23 +79,66 @@ body {
   margin-top: 40px;
 }
 
-.cards .no1 {
+.card {
+  position: relative;
+  overflow: hidden;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  
+  background: rgba(0, 0, 0, 0.6); /* dark overlay */
+  color: white;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  opacity: 0;
+  transition: 0.3s ease;
+}
+
+.card:hover .overlay {
+  opacity: 1;
+}
+
+.overlay button {
+  margin-top: 10px;
+  padding: 6px 14px;
+  border: none;
+  border-radius: 20px;
+  background: #00bcd4;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.cards .UIno1 {
   background: url('images/Screensdesign.png') center/cover no-repeat;
 }
 
-.cards .no2 {
+.cards .UIno2 {
   background: url('images/SimilarPNG.png') center/cover no-repeat;
 }
 
-.cards .no3 {
+.cards .UIno3 {
   background: url('images/pngwing.ico') center/cover no-repeat;
 }
 
-.cards .no4 {
+.cards .UIno4 {
   background: url('images/looka.png') center/cover no-repeat;
 }
 
-.cards .no5 {
+.cards .UIno5 {
   background: url('images/removebg.ico') center/cover no-repeat;
 }
 
