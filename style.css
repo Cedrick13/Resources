@@ -224,6 +224,50 @@ body {
   background: url('images/aos.png') center/cover no-repeat;
 }
 
+.cards .Devno5 {
+  background: url('images/CSS\ Stripes\ Generator.png') center/cover no-repeat;
+}
+
+.cards .Devno6 {
+  background: url('images/fontawesome.png') center/cover no-repeat;
+}
+
+.cards .Devno7 {
+  background: url('images/fontawesomeicon.png') center/cover no-repeat;
+}
+
+.cards .Devno8 {
+  background: url('images/css.gg.png') center/cover no-repeat;
+}
+
+.cards .Devno9 {
+  background: url('images/w3docs.png') center/cover no-repeat;
+}
+
+.cards .Devno10 {
+  background: url('images/devdocs.png') center/cover no-repeat;
+}
+
+.cards .Devno11 {
+  background: url('images/Knowledge\ Walls.ico') center/cover no-repeat;
+}
+
+.cards .Devno12 {
+  background: url('images/w3school.ico') center/cover no-repeat;
+}
+
+.cards .Devno13 {
+  background: url('images/computerhope.ico') center/cover no-repeat;
+}
+
+.cards .Devno14 {
+  background: url('images/cssgridgenerator.ico') center/cover no-repeat;
+}
+
+.cards .Devno15 {
+  background: url('images/imageonline.png') center/cover no-repeat;
+}
+
 .cards .card {
   display: flex;
   align-items: center;
