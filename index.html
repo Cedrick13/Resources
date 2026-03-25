@@ -11,14 +11,14 @@
         <div class="cursor-glow"></div>
         <nav class="navbar">
             <div class="logo">
-    <a href="index.html">
-        <img src="images/icon.png" alt="Logo">
-        <div class="logo-text">
-            <span class="main">Resources</span>
-            <span class="sub">Tools Hub</span>
-        </div>
-    </a>
-</div>
+                <a href="index.html">
+                    <img src="images/icon.png" alt="Logo" />
+                    <div class="logo-text">
+                        <span class="main">Resources</span>
+                        <span class="sub">Tools Hub</span>
+                    </div>
+                </a>
+            </div>
         </nav>
 
         <!-- SECTION 1 -->
@@ -364,25 +364,24 @@
         </script>
 
         <script>
-        document.querySelector(".logo a").addEventListener("click", function(e) {
-            e.preventDefault(); // stop instant redirect
+            document.querySelector(".logo a").addEventListener("click", function (e) {
+                e.preventDefault(); // stop instant redirect
 
-            document.body.classList.add("fade-out");
+                document.body.classList.add("fade-out");
 
-            setTimeout(() => {
-                window.location.href = this.href;
-            }, 200); // match CSS duration
-        });
+                setTimeout(() => {
+                    window.location.href = this.href;
+                }, 200); // match CSS duration
+            });
         </script>
 
         <script>
-const glow = document.querySelector(".cursor-glow");
+            const glow = document.querySelector(".cursor-glow");
 
-document.addEventListener("mousemove", (e) => {
-    glow.style.left = e.clientX + "px";
-    glow.style.top = e.clientY + "px";
-});
-</script>
-
+            document.addEventListener("mousemove", (e) => {
+                glow.style.left = e.clientX + "px";
+                glow.style.top = e.clientY + "px";
+            });
+        </script>
     </body>
 </html>
