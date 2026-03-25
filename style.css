@@ -53,6 +53,19 @@ body.fade-out {
     transform: rotate(-5deg) scale(1.1);
 }
 
+/* Cursor glow effect */
+.cursor-glow {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 120px;
+    height: 120px;
+    background: radial-gradient(circle, rgba(0,188,212,0.4), transparent 70%);
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+}
+
 /* COLORS */
 :root {
     --bg: #ffffff;
@@ -138,18 +151,6 @@ body {
 .card {
     position: relative;
     overflow: hidden;
-}
-
-.cursor-glow {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 120px;
-    height: 120px;
-    background: radial-gradient(circle, rgba(0,188,212,0.4), transparent 70%);
-    pointer-events: none;
-    transform: translate(-50%, -50%);
-    z-index: 9999;
 }
 
 .overlay {
@@ -390,7 +391,6 @@ body {
     background: url("images/resume\ builder.png") center/cover no-repeat;
 }
 
-
 .cards .card {
     display: flex;
     align-items: center;
@@ -428,6 +428,7 @@ body {
     transform: scale(0.9);
 }
 
+/* SECTIONS */
 .section {
     width: 100%;
     max-width: 1100px;
