@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="style.css" />
         <link rel="icon" type="image/x-icon" href="./images/icon.png" />
     </head>
-    <body>
+    <body id="page">
         <nav class="navbar">
             <div class="logo">
     <a href="index.html">
@@ -360,6 +360,18 @@
 
         <script>
             document.getElementById("year").textContent = new Date().getFullYear();
+        </script>
+
+        <script>
+        document.querySelector(".logo a").addEventListener("click", function(e) {
+            e.preventDefault(); // stop instant redirect
+
+            document.body.classList.add("fade-out");
+
+            setTimeout(() => {
+                window.location.href = this.href;
+            }, 200); // match CSS duration
+        });
         </script>
     </body>
 </html>

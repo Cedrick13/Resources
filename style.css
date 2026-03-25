@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+body {
+    transition: opacity 0.4s ease;
+}
+
+body.fade-out {
+    opacity: 0;
+}
+
 .logo a {
     display: flex;
     align-items: center;
