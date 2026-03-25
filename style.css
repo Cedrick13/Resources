@@ -5,6 +5,11 @@
 }
 
 body {
+    background: url("images/bg.jpg") no-repeat center center/cover;
+    color: white;
+}
+
+body {
     transition: opacity 0.4s ease;
 }
 
