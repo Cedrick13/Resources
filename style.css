@@ -318,6 +318,11 @@ body {
     background: url("images/roadmap.png") center/cover no-repeat;
 }
 
+.cards .Otherno3 {
+    background: url("images/resume\ builder.png") center/cover no-repeat;
+}
+
+
 .cards .card {
     display: flex;
     align-items: center;
