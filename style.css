@@ -4,17 +4,40 @@
     box-sizing: border-box;
 }
 
-.logo {
+.logo a {
     display: flex;
     align-items: center;
     gap: 10px;
-    font-size: 1.5em;
-    font-weight: bold;
+    text-decoration: none;
+    color: white;
 }
 
 .logo img {
-    height: 40px; /* adjust size */
-    width: auto;
+    height: 40px;
+}
+
+.logo-text {
+    display: flex;
+    flex-direction: column;
+    line-height: 1;
+}
+
+.logo-text .main {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.logo-text .sub {
+    font-size: 0.7rem;
+    color: #aaa;
+}
+
+.logo img {
+    transition: transform 0.3s ease;
+}
+
+.logo:hover img {
+    transform: rotate(-5deg) scale(1.1);
 }
 
 /* COLORS */
@@ -60,12 +83,19 @@ footer {
 
 /* NAVBAR */
 .navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+
     display: flex;
     justify-content: space-between;
     align-items: center;
+
     padding: 15px 30px;
     background: #111;
     color: white;
+
+    transition: all 0.3s ease;
 }
 
 body {
