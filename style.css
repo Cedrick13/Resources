@@ -140,6 +140,18 @@ body {
     overflow: hidden;
 }
 
+.cursor-glow {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 120px;
+    height: 120px;
+    background: radial-gradient(circle, rgba(0,188,212,0.4), transparent 70%);
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+}
+
 .overlay {
     position: absolute;
     top: 0;
