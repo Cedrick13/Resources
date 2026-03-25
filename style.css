@@ -309,6 +309,14 @@ body {
     background: url("images/ziplin.png") center/cover no-repeat;
 }
 
+/* Others Cards */
+.cards .Otherno1 {
+    background: url("images/devdocs.png") center/cover no-repeat;
+}
+
+.cards .Otherno2 {
+    background: url("images/roadmap.png") center/cover no-repeat;
+}
 
 .cards .card {
     display: flex;
