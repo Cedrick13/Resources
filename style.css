@@ -281,6 +281,35 @@ body {
     background: url("images/uideck.ico") center/cover no-repeat;
 }
 
+.cards .Tempno3 {
+    background: url("images/tempmo.ico") center/cover no-repeat;
+}
+
+.cards .Tempno4 {
+    background: url("images/webflow.ico") center/cover no-repeat;
+}
+
+.cards .Tempno5 {
+    background: url("images/htmlrev.png") center/cover no-repeat;
+}
+
+.cards .Tempno6 {
+    background: url("images/codeinfoweb.ico") center/cover no-repeat;
+}
+
+.cards .Tempno7 {
+    background: url("images/sourcecode.ico") center/cover no-repeat;
+}
+
+.cards .Tempno8 {
+    background: url("images/figma\ comm.png") center/cover no-repeat;
+}
+
+.cards .Tempno9 {
+    background: url("images/ziplin.png") center/cover no-repeat;
+}
+
+
 .cards .card {
     display: flex;
     align-items: center;
