@@ -399,6 +399,10 @@ body {
     background: url("images/ifixit.png") center/cover no-repeat;
 }
 
+.cards .Otherno6 {
+    background: url("images/ftuapps.png") center/cover no-repeat;
+}
+
 .cards .card {
     display: flex;
     align-items: center;
