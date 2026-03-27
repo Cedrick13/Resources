@@ -403,6 +403,10 @@ body {
     background: url("images/ftuapps.png") center/cover no-repeat;
 }
 
+.cards .Otherno7 {
+    background: url("images/torrent.ico") center/cover no-repeat;
+}
+
 .cards .card {
     display: flex;
     align-items: center;
