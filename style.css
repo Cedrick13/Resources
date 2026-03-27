@@ -391,6 +391,11 @@ body {
     background: url("images/resume\ builder.png") center/cover no-repeat;
 }
 
+.cards .Otherno4 {
+    background: url("images/beautifycode.ico") center/cover no-repeat;
+}
+
+
 .cards .card {
     display: flex;
     align-items: center;
