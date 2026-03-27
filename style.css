@@ -395,6 +395,9 @@ body {
     background: url("images/beautifycode.ico") center/cover no-repeat;
 }
 
+.cards .Otherno5 {
+    background: url("images/ifixit.png") center/cover no-repeat;
+}
 
 .cards .card {
     display: flex;
