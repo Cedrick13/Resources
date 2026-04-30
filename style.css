@@ -407,6 +407,10 @@ body {
     background: url("images/torrent.ico") center/cover no-repeat;
 }
 
+.cards .Otherno8 {
+    background: url("images/tinywow.png") center/cover no-repeat;
+}
+
 .cards .card {
     display: flex;
     align-items: center;
