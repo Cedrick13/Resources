@@ -1,8 +1,8 @@
-<?php 
+<?php
 $pageTitle = "Resources - Tools Hub";
-include '../includes/data.php';    
-include '../includes/header.php';   
-include '../includes/navbar.php';   
+include __DIR__ . '/../includes/data.php';
+include __DIR__ . '/../includes/header.php';
+include __DIR__ . '/../includes/navbar.php';
 
 foreach ($resources as $sectionTitle => $cards) {
     echo '<section class="section"><h2 class="section-title">' . htmlspecialchars($sectionTitle) . '</h2><div class="cards">';
@@ -12,5 +12,5 @@ foreach ($resources as $sectionTitle => $cards) {
     echo '</div></section>';
 }
 
-include '../includes/footer.php';   
+include __DIR__ . '/../includes/footer.php';
 ?>
