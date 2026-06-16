@@ -4,7 +4,6 @@
             </p>
         </footer>
 
-        <script src="/assets/js/main.js"></script>
-        <script src="/assets/js/effects.js"></script>
+        <script type="module" src="/assets/js/app.js"></script>
     </body>
 </html>
