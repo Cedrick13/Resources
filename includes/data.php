@@ -1,0 +1,64 @@
+<?php
+$resources = [
+    'UI/UX Resources' => [
+        ['class' => 'UIno1', 'name' => 'UI Sources', 'url' => 'https://www.uisources.com/home'],
+        ['class' => 'UIno2', 'name' => 'SimilarPNG', 'url' => 'https://similarpng.com'],
+        ['class' => 'UIno3', 'name' => 'PNGWing', 'url' => 'https://www.pngwing.com'],
+        ['class' => 'UIno4', 'name' => 'Looka', 'url' => 'https://looka.com/'],
+        ['class' => 'UIno5', 'name' => 'Remove.BG', 'url' => 'https://www.remove.bg'],
+        ['class' => 'UIno6', 'name' => 'Unscreen', 'url' => 'https://www.unscreen.com'],
+        ['class' => 'UIno7', 'name' => 'Pixabay', 'url' => 'https://pixabay.com'],
+        ['class' => 'UIno8', 'name' => 'Colorsinspo', 'url' => 'https://colorsinspo.com'],
+        ['class' => 'UIno9', 'name' => 'Mobbin', 'url' => 'https://mobbin.com/browse/ios/apps?sort=publishedAt'],
+        ['class' => 'UIno10', 'name' => 'Muzli Colors', 'url' => 'https://colors.muz.li'],
+        ['class' => 'UIno11', 'name' => 'Cleanup.pictures', 'url' => 'https://cleanup.pictures/'],
+        ['class' => 'UIno12', 'name' => 'Unsplash', 'url' => 'https://unsplash.com/'],
+        ['class' => 'UIno13', 'name' => 'Icons8 Preloaders', 'url' => 'https://icons8.com/preloaders/'],
+        ['class' => 'UIno14', 'name' => 'Loading.io', 'url' => 'https://loading.io/'],
+        ['class' => 'UIno15', 'name' => 'Flaticon', 'url' => 'https://www.flaticon.com/'],
+        ['class' => 'UIno16', 'name' => 'Footer.design', 'url' => 'https://www.footer.design/'],
+        ['class' => 'UIno17', 'name' => 'BrandColors', 'url' => 'https://brandcolors.net/'],
+        ['class' => 'UIno18', 'name' => 'UI Ball', 'url' => 'https://uiball.com/'],
+        ['class' => 'UIno19', 'name' => 'Freepik', 'url' => 'https://www.freepik.com/'],
+        ['class' => 'UIno20', 'name' => 'Color Name', 'url' => 'https://www.color-name.com/']
+    ],
+    'Dev Resources' => [
+        ['class' => 'Devno1', 'name' => 'Uiverse.io', 'url' => 'https://uiverse.io'],
+        ['class' => 'Devno2', 'name' => 'Shapedivider.app', 'url' => 'https://www.shapedivider.app'],
+        ['class' => 'Devno3', 'name' => 'Animate.style', 'url' => 'https://animate.style'],
+        ['class' => 'Devno4', 'name' => 'Animate on scroll library', 'url' => 'https://michalsnik.github.io/aos/'],
+        ['class' => 'Devno5', 'name' => 'CSS Stripes Generator', 'url' => 'https://stripesgenerator.com/'],
+        ['class' => 'Devno6', 'name' => 'Font Awesome', 'url' => 'https://fontawesome.com/'],
+        ['class' => 'Devno7', 'name' => 'Font Awesome v4 Icons', 'url' => 'https://fontawesome.com/v4/icons/'],
+        ['class' => 'Devno8', 'name' => 'CSS.gg', 'url' => 'https://css.gg/'],
+        ['class' => 'Devno9', 'name' => 'W3Docs', 'url' => 'https://www.w3docs.com/'],
+        ['class' => 'Devno10', 'name' => 'Omatsuri', 'url' => 'https://omatsuri.app/'],
+        ['class' => 'Devno11', 'name' => 'Knowledge Walls Tools', 'url' => 'https://tools.knowledgewalls.com/'],
+        ['class' => 'Devno12', 'name' => 'W3Schools', 'url' => 'https://www.w3schools.com/'],
+        ['class' => 'Devno13', 'name' => 'HTML Color Codes', 'url' => 'https://www.computerhope.com/htmcolor.htm'],
+        ['class' => 'Devno14', 'name' => 'CSS Grid Generator', 'url' => 'https://cssgridgenerator.io/'],
+        ['class' => 'Devno15', 'name' => 'Image Online', 'url' => 'https://imageonline.co/'],
+        ['class' => 'Devno16', 'name' => 'Image Color Picker', 'url' => 'https://imagecolorpicker.com/']
+    ],
+    'Templates Resources' => [
+        ['class' => 'Tempno1', 'name' => 'HTML5 UP', 'url' => 'https://html5up.net/'],
+        ['class' => 'Tempno2', 'name' => 'UI Deck', 'url' => 'https://uideck.com/'],
+        ['class' => 'Tempno3', 'name' => 'TemplateMo', 'url' => 'https://templatemo.com/'],
+        ['class' => 'Tempno4', 'name' => 'Webflow Templates', 'url' => 'https://webflow.com/templates/free-website-templates'],
+        ['class' => 'Tempno5', 'name' => 'HTML Rev', 'url' => 'https://htmlrev.com/'],
+        ['class' => 'Tempno6', 'name' => 'CodeInfoWeb', 'url' => 'https://www.codeinfoweb.com/'],
+        ['class' => 'Tempno7', 'name' => 'SourceCodester', 'url' => 'https://www.sourcecodester.com/'],
+        ['class' => 'Tempno8', 'name' => 'Figma Community', 'url' => 'https://www.figma.com/community'],
+        ['class' => 'Tempno9', 'name' => 'Zeplin', 'url' => 'https://zeplin.io/']
+    ],
+    'Others Resources' => [
+        ['class' => 'Otherno1', 'name' => 'DevDocs', 'url' => 'https://devdocs.io/'],
+        ['class' => 'Otherno2', 'name' => 'Roadmap.sh', 'url' => 'https://roadmap.sh/'],
+        ['class' => 'Otherno3', 'name' => 'Resume Builder', 'url' => 'https://rxresu.me/'],
+        ['class' => 'Otherno4', 'name' => 'BeautifyCode', 'url' => 'https://beautifycode.net/'],
+        ['class' => 'Otherno5', 'name' => 'iFixit', 'url' => 'https://www.ifixit.com/'],
+        ['class' => 'Otherno6', 'name' => 'FTU Apps', 'url' => 'https://ftuapps1.farlad.com/'],
+        ['class' => 'Otherno7', 'name' => 'Torrent Downloads', 'url' => 'https://www.torrentdownloads.pro/'],
+        ['class' => 'Otherno8', 'name' => 'TinyWow', 'url' => 'https://tinywow.com/']
+    ]
+];
