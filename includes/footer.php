@@ -5,6 +5,6 @@
         </footer>
 
         <script src="/assets/js/main.js"></script>
-<script src="/assets/js/effects.js"></script>
+        <script src="/assets/js/effects.js"></script>
     </body>
 </html>
