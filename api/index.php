@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "Resources - Tools Hub";
+$pageTitle = "Resources";
 include __DIR__ . '/../includes/data.php';
 include __DIR__ . '/../includes/header.php';
 include __DIR__ . '/../includes/navbar.php';
