@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url("images/bg.jpg") no-repeat center center/cover;
+    background: url("../images/bg.jpg") no-repeat center center/cover;
     color: white;
 }
 
@@ -197,218 +197,218 @@ body {
 
 /* UI Cards */
 .cards .UIno1 {
-    background: url("images/Screensdesign.png") center/cover no-repeat;
+    background: url("../images/Screensdesign.png") center/cover no-repeat;
 }
 
 .cards .UIno2 {
-    background: url("images/SimilarPNG.png") center/cover no-repeat;
+    background: url("../images/SimilarPNG.png") center/cover no-repeat;
 }
 
 .cards .UIno3 {
-    background: url("images/pngwing.ico") center/cover no-repeat;
+    background: url("../images/pngwing.ico") center/cover no-repeat;
 }
 
 .cards .UIno4 {
-    background: url("images/looka.png") center/cover no-repeat;
+    background: url("../images/looka.png") center/cover no-repeat;
 }
 
 .cards .UIno5 {
-    background: url("images/removebg.ico") center/cover no-repeat;
+    background: url("../images/removebg.ico") center/cover no-repeat;
 }
 
 .cards .UIno6 {
-    background: url("images/Unscreen.png") center/cover no-repeat;
+    background: url("../images/Unscreen.png") center/cover no-repeat;
 }
 
 .cards .UIno7 {
-    background: url("images/pixabay.png") center/cover no-repeat;
+    background: url("../images/pixabay.png") center/cover no-repeat;
 }
 
 .cards .UIno8 {
-    background: url("images/colorsinspo.png") center/cover no-repeat;
+    background: url("../images/colorsinspo.png") center/cover no-repeat;
 }
 
 .cards .UIno9 {
-    background: url("images/mobbin.png") center/cover no-repeat;
+    background: url("../images/mobbin.png") center/cover no-repeat;
 }
 
 .cards .UIno10 {
-    background: url("images/colors.muz.li.png") center/cover no-repeat;
+    background: url("../images/colors.muz.li.png") center/cover no-repeat;
 }
 
 .cards .UIno11 {
-    background: url("images/cleanup.png") center/cover no-repeat;
+    background: url("../images/cleanup.png") center/cover no-repeat;
 }
 
 .cards .UIno12 {
-    background: url("images/unsplash.png") center/cover no-repeat;
+    background: url("../images/unsplash.png") center/cover no-repeat;
 }
 
 .cards .UIno13 {
-    background: url("images/preloaders.png") center/cover no-repeat;
+    background: url("../images/preloaders.png") center/cover no-repeat;
 }
 
 .cards .UIno14 {
-    background: url("images/loading.io.png") center/cover no-repeat;
+    background: url("../images/loading.io.png") center/cover no-repeat;
 }
 
 .cards .UIno15 {
-    background: url("images/flaticon.png") center/cover no-repeat;
+    background: url("../images/flaticon.png") center/cover no-repeat;
 }
 
 .cards .UIno16 {
-    background: url("images/footer.png") center/cover no-repeat;
+    background: url("../images/footer.png") center/cover no-repeat;
 }
 
 .cards .UIno17 {
-    background: url("images/brandcolors.png") center/cover no-repeat;
+    background: url("../images/brandcolors.png") center/cover no-repeat;
 }
 
 .cards .UIno18 {
-    background: url("images/uiball.png") center/cover no-repeat;
+    background: url("../images/uiball.png") center/cover no-repeat;
 }
 
 .cards .UIno19 {
-    background: url("images/freepik.ico") center/cover no-repeat;
+    background: url("../images/freepik.ico") center/cover no-repeat;
 }
 
 .cards .UIno20 {
-    background: url("images/color-name.png") center/cover no-repeat;
+    background: url("../images/color-name.png") center/cover no-repeat;
 }
 
 /* Dev Cards */
 .cards .Devno1 {
-    background: url("images/uiverse.png") center/cover no-repeat;
+    background: url("../images/uiverse.png") center/cover no-repeat;
 }
 
 .cards .Devno2 {
-    background: url("images/shapedivider.png") center/cover no-repeat;
+    background: url("../images/shapedivider.png") center/cover no-repeat;
 }
 
 .cards .Devno3 {
-    background: url("images/animate.ico") center/cover no-repeat;
+    background: url("../images/animate.ico") center/cover no-repeat;
 }
 
 .cards .Devno4 {
-    background: url("images/aos.png") center/cover no-repeat;
+    background: url("../images/aos.png") center/cover no-repeat;
 }
 
 .cards .Devno5 {
-    background: url("images/CSS\ Stripes\ Generator.png") center/cover no-repeat;
+    background: url("../images/CSS\ Stripes\ Generator.png") center/cover no-repeat;
 }
 
 .cards .Devno6 {
-    background: url("images/fontawesome.png") center/cover no-repeat;
+    background: url("../images/fontawesome.png") center/cover no-repeat;
 }
 
 .cards .Devno7 {
-    background: url("images/fontawesomeicon.png") center/cover no-repeat;
+    background: url("../images/fontawesomeicon.png") center/cover no-repeat;
 }
 
 .cards .Devno8 {
-    background: url("images/css.gg.png") center/cover no-repeat;
+    background: url("../images/css.gg.png") center/cover no-repeat;
 }
 
 .cards .Devno9 {
-    background: url("images/w3docs.png") center/cover no-repeat;
+    background: url("../images/w3docs.png") center/cover no-repeat;
 }
 
 .cards .Devno10 {
-    background: url("images/omatsuri.ico") center/cover no-repeat;
+    background: url("../images/omatsuri.ico") center/cover no-repeat;
 }
 
 .cards .Devno11 {
-    background: url("images/Knowledge\ Walls.ico") center/cover no-repeat;
+    background: url("../images/Knowledge\ Walls.ico") center/cover no-repeat;
 }
 
 .cards .Devno12 {
-    background: url("images/w3school.ico") center/cover no-repeat;
+    background: url("../images/w3school.ico") center/cover no-repeat;
 }
 
 .cards .Devno13 {
-    background: url("images/computerhope.ico") center/cover no-repeat;
+    background: url("../images/computerhope.ico") center/cover no-repeat;
 }
 
 .cards .Devno14 {
-    background: url("images/cssgridgenerator.ico") center/cover no-repeat;
+    background: url("../images/cssgridgenerator.ico") center/cover no-repeat;
 }
 
 .cards .Devno15 {
-    background: url("images/imageonline.png") center/cover no-repeat;
+    background: url("../images/imageonline.png") center/cover no-repeat;
 }
 
 .cards .Devno16 {
-    background: url("images/colorpicker.png") center/cover no-repeat;
+    background: url("../images/colorpicker.png") center/cover no-repeat;
 }
 
 /* Templates Cards */
 .cards .Tempno1 {
-    background: url("images/html\ 5.ico") center/cover no-repeat;
+    background: url("../images/html\ 5.ico") center/cover no-repeat;
 }
 
 .cards .Tempno2 {
-    background: url("images/uideck.ico") center/cover no-repeat;
+    background: url("../images/uideck.ico") center/cover no-repeat;
 }
 
 .cards .Tempno3 {
-    background: url("images/tempmo.ico") center/cover no-repeat;
+    background: url("../images/tempmo.ico") center/cover no-repeat;
 }
 
 .cards .Tempno4 {
-    background: url("images/webflow.ico") center/cover no-repeat;
+    background: url("../images/webflow.ico") center/cover no-repeat;
 }
 
 .cards .Tempno5 {
-    background: url("images/htmlrev.png") center/cover no-repeat;
+    background: url("../images/htmlrev.png") center/cover no-repeat;
 }
 
 .cards .Tempno6 {
-    background: url("images/codeinfoweb.ico") center/cover no-repeat;
+    background: url("../images/codeinfoweb.ico") center/cover no-repeat;
 }
 
 .cards .Tempno7 {
-    background: url("images/sourcecode.ico") center/cover no-repeat;
+    background: url("../images/sourcecode.ico") center/cover no-repeat;
 }
 
 .cards .Tempno8 {
-    background: url("images/figma\ comm.png") center/cover no-repeat;
+    background: url("../images/figma\ comm.png") center/cover no-repeat;
 }
 
 .cards .Tempno9 {
-    background: url("images/ziplin.png") center/cover no-repeat;
+    background: url("../images/ziplin.png") center/cover no-repeat;
 }
 
 /* Others Cards */
 .cards .Otherno1 {
-    background: url("images/devdocs.png") center/cover no-repeat;
+    background: url("../images/devdocs.png") center/cover no-repeat;
 }
 
 .cards .Otherno2 {
-    background: url("images/roadmap.png") center/cover no-repeat;
+    background: url("../images/roadmap.png") center/cover no-repeat;
 }
 
 .cards .Otherno3 {
-    background: url("images/resume\ builder.png") center/cover no-repeat;
+    background: url("../images/resume\ builder.png") center/cover no-repeat;
 }
 
 .cards .Otherno4 {
-    background: url("images/beautifycode.ico") center/cover no-repeat;
+    background: url("../images/beautifycode.ico") center/cover no-repeat;
 }
 
 .cards .Otherno5 {
-    background: url("images/ifixit.png") center/cover no-repeat;
+    background: url("../images/ifixit.png") center/cover no-repeat;
 }
 
 .cards .Otherno6 {
-    background: url("images/ftuapps.png") center/cover no-repeat;
+    background: url("../images/ftuapps.png") center/cover no-repeat;
 }
 
 .cards .Otherno7 {
-    background: url("images/torrent.ico") center/cover no-repeat;
+    background: url("../images/torrent.ico") center/cover no-repeat;
 }
 
 .cards .Otherno8 {
-    background: url("images/tinywow.png") center/cover no-repeat;
+    background: url("../images/tinywow.png") center/cover no-repeat;
 }
 
 .cards .card {
