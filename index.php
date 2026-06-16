@@ -1,5 +1,5 @@
 <?php 
-$pageTitle = "Resources - Tools Hub";
+$pageTitle = "Resources";
 include 'includes/header.php'; 
 include 'includes/navbar.php'; 
 ?>
