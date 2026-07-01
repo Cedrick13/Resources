@@ -411,6 +411,10 @@ body {
     background: url("../images/tinywow.png") center/cover no-repeat;
 }
 
+.cards .Otherno9 {
+    background: url("../images/exercism.png") center/cover no-repeat;
+}
+
 .cards .card {
     display: flex;
     align-items: center;

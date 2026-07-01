@@ -59,6 +59,7 @@ $resources = [
         ['class' => 'Otherno5', 'name' => 'iFixit', 'url' => 'https://www.ifixit.com/'],
         ['class' => 'Otherno6', 'name' => 'FTU Apps', 'url' => 'https://ftuapps1.farlad.com/'],
         ['class' => 'Otherno7', 'name' => 'Torrent Downloads', 'url' => 'https://www.torrentdownloads.pro/'],
-        ['class' => 'Otherno8', 'name' => 'TinyWow', 'url' => 'https://tinywow.com/']
+        ['class' => 'Otherno8', 'name' => 'TinyWow', 'url' => 'https://tinywow.com/'],   // <-- comma added here
+        ['class' => 'Otherno9', 'name' => 'Exercism', 'url' => 'https://exercism.org/']
     ]
 ];
