@@ -414,6 +414,10 @@ body {
 .cards .Otherno9 {
     background: url("../images/exercism.png") center/cover no-repeat;
 }
+    
+.cards .Otherno10 {
+    background: url("../images/fixresume.png") center/cover no-repeat;
+}
 
 .cards .card {
     display: flex;

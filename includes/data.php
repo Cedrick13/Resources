@@ -60,6 +60,7 @@ $resources = [
         ['class' => 'Otherno6', 'name' => 'FTU Apps', 'url' => 'https://ftuapps1.farlad.com/'],
         ['class' => 'Otherno7', 'name' => 'Torrent Downloads', 'url' => 'https://www.torrentdownloads.pro/'],
         ['class' => 'Otherno8', 'name' => 'TinyWow', 'url' => 'https://tinywow.com/'],
-        ['class' => 'Otherno9', 'name' => 'Exercism', 'url' => 'https://exercism.org/']
+        ['class' => 'Otherno9', 'name' => 'Exercism', 'url' => 'https://exercism.org/'],
+        ['class' => 'Otherno10', 'name' => 'FixResume', 'url' => 'https://fixresume.io/']
     ]
 ];
