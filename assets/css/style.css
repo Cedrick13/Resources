@@ -423,6 +423,10 @@ body {
     background: url("../images/fixresume.png") center/cover no-repeat;
 }
 
+.cards .Otherno11 {
+    background: url("../images/ninite.png") center/cover no-repeat;
+}
+
 .cards .card {
     display: flex;
     align-items: center;

@@ -62,6 +62,7 @@ $resources = [
         ['class' => 'Otherno7', 'name' => 'Torrent Downloads', 'url' => 'https://www.torrentdownloads.pro/'],
         ['class' => 'Otherno8', 'name' => 'TinyWow', 'url' => 'https://tinywow.com/'],
         ['class' => 'Otherno9', 'name' => 'Exercism', 'url' => 'https://exercism.org/'],
-        ['class' => 'Otherno10', 'name' => 'FixResume', 'url' => 'https://fixresume.io/']
+        ['class' => 'Otherno10', 'name' => 'FixResume', 'url' => 'https://fixresume.io/'],
+        ['class' => 'Otherno11', 'name' => 'Ninite', 'url' => 'https://ninite.com/']
     ]
 ];
