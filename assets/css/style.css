@@ -382,6 +382,10 @@ body {
     background: url("../images/ziplin.png") center/cover no-repeat;
 }
 
+.cards .Tempno10 {
+    background: url("../images/justinmind.png") center/cover no-repeat;
+}
+
 /* Others Cards */
 .cards .Otherno1 {
     background: url("../images/devdocs.png") center/cover no-repeat;

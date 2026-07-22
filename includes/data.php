@@ -50,7 +50,8 @@ $resources = [
         ['class' => 'Tempno6', 'name' => 'CodeInfoWeb', 'url' => 'https://www.codeinfoweb.com/'],
         ['class' => 'Tempno7', 'name' => 'SourceCodester', 'url' => 'https://www.sourcecodester.com/'],
         ['class' => 'Tempno8', 'name' => 'Figma Community', 'url' => 'https://www.figma.com/community'],
-        ['class' => 'Tempno9', 'name' => 'Zeplin', 'url' => 'https://zeplin.io/']
+        ['class' => 'Tempno9', 'name' => 'Zeplin', 'url' => 'https://zeplin.io/'],
+        ['class' => 'Tempno10', 'name' => 'Justinmind', 'url' => 'https://www.justinmind.com/design-templates']
     ],
     'Others Resources' => [
         ['class' => 'Otherno1', 'name' => 'DevDocs', 'url' => 'https://devdocs.io/'],
