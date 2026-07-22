@@ -20,7 +20,8 @@ $resources = [
         ['class' => 'UIno17', 'name' => 'BrandColors', 'url' => 'https://brandcolors.net/'],
         ['class' => 'UIno18', 'name' => 'UI Ball', 'url' => 'https://uiball.com/'],
         ['class' => 'UIno19', 'name' => 'Freepik', 'url' => 'https://www.freepik.com/'],
-        ['class' => 'UIno20', 'name' => 'Color Name', 'url' => 'https://www.color-name.com/']
+        ['class' => 'UIno20', 'name' => 'Artboard Studio', 'url' => 'https://artboard.studio/'],
+        ['class' => 'UIno21', 'name' => 'Color Name', 'url' => 'https://www.color-name.com/']
     ],
     'Dev Resources' => [
         ['class' => 'Devno1', 'name' => 'Uiverse.io', 'url' => 'https://uiverse.io'],

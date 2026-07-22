@@ -273,6 +273,10 @@ body {
 }
 
 .cards .UIno20 {
+    background: url("../images/artboard.studio") center/cover no-repeat;
+}
+
+.cards .UIno21 {
     background: url("../images/color-name.png") center/cover no-repeat;
 }
 
