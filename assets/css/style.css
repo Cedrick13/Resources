@@ -431,6 +431,10 @@ body {
     background: url("../images/ninite.png") center/cover no-repeat;
 }
 
+.cards .Otherno12 {
+    background: url("../images/haveibeenpwned.png") center/cover no-repeat;
+}
+
 .cards .card {
     display: flex;
     align-items: center;
